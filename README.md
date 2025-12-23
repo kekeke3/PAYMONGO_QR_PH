@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project demonstrates an **integration of QR Ph payments using PayMongo** for personal or testing purposes. It allows you to **accept payments directly into your GCash or QR Ph-enabled account** without requiring a formal business permit.  
+This project demonstrates an **integration of QR Ph payments using PayMongo** for personal or testing purposes. It allows you to **deduct payments from their GCash or QR Ph-enabled accounts for testing purposes, while the actual payment is processed and received in PayMongo** without requiring a formal business permit.  
 
 > ⚠️ **Note:** This setup is intended for **personal use or learning purposes only**. Using it for commercial activities without a proper business permit may violate Philippine regulations.  
 
